@@ -9,6 +9,6 @@
     <ul> Classtime: 45 mins daily</ul>
         
         
-<h3> In 2015 I participated in a GenCyber Summer Workshop in Cybersecurity for High School Teachers at Pace University.  The workshop met for 2 weeks and we were housed on campus. I enjoyed the material and resources shared however I have never been able to implement the information into my classes. Therefore I would like to develop this course in my IT pathwway.</h3>  
+<h5> In 2015 I participated in a GenCyber Summer Workshop in Cybersecurity for High School Teachers at Pace University.  The workshop met for 2 weeks and we were housed on campus. I enjoyed the material and resources shared however I have never been able to implement the information into my classes. Therefore I would like to develop this course in my IT pathwway.</h5>  
 
     
