@@ -1,11 +1,11 @@
 # Fall-2022-currdev-work-TWardally
 
-Finish the unit plan template
-This should be the README.md file in your main unit plan repository.
-Based on the previous assignment these things should be added:
-Tools used
-External resources
-Lessons
-This should be the sequence of lessons and their topics.
-Assessments
-This should be a list/brief description of any assessments.
+#### Last Name: Wardally
+#### First Name: Tanya 
+
+#### Github username: Twardally
+#### Fill out the top of this form, commit and push it back to GitHub
+#### Weekly assignments can be found here: https://github.com/hunter-teacher-cert/sedc73600-currdev-fall22/blob/main/assignments.md
+
+#### Assignments are due by the start of the next class, unless otherwise specified.
+#### Asynchronous assignments will have different submission instructions.
